@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 10,
   "latestVersionName": "GAR 2.10",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1lek2-LjnC4PTXZ2Z5Mdn65XpgNONcpr3",
-  "sha256": "962ded5c6f4bf4cd17196b020615aa01589b69936c80d117d8e22b8b5fa4009a",
+  "downloadUrl": "https://github.com/radityo04/soa-app-version/releases/download/v2.10/SoaApps.apk",
+  "sha256": "77f7f57bf2227517e8bf8d776155a8ebfb244fca41a5c0c6bef4afb772f2ccde",
   "forceUpdate": true
 }
